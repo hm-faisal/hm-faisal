@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/hm-faisal/hm-faisal/refs/heads/main/Joniur%20Web%20Developer.png" style="border-radius: 8px;" />
+<div align="center" style="border-radius: 10px;">
+  <img height="250" src="https://raw.githubusercontent.com/hm-faisal/hm-faisal/refs/heads/main/WebDeveloper.png" />
 
 </div>
 
